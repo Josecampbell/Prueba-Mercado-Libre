@@ -1,0 +1,102 @@
+              id        name category_id                                                                                                                  title
+0   MLA740540307          PC     MLA1649                                                           Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos
+1   MLA723629779   Notebooks     MLA1652                    Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+2   MLA625205834         UPS     MLA1720       Ups Apc 800va 6 T Estabilizador Y Protector De Tension Gtia Oficial 2 Años Bx800 Para Tv, Play, Equipos De Audio
+3   MLA614718493         UPS     MLA1720                                                           Ups Apc Bx1100ci Para Tv, Play, Audio, 6 Tomas Estabilizador
+4   MLA619999038         UPS     MLA1720                   Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia
+5   MLA861373243          PC     MLA1649                                                            Servidor Rack Dell Poweredge R240 Xeon 32gb 4tb Gtia Cuotas
+6   MLA742113320   Notebooks     MLA1652                                                              Notebook Dell Inspiron I7 8g 512ssd 13,3fhd Geforce Win10
+7   MLA846968526         UPS     MLA1720                                                           Ups Apc Bv1000 Estabilza Y Protege Tensión Entrega Inmediata
+8   MLA603776528         UPS     MLA1720           Ups Apc 1100va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial Para Pc Gamer Con Ahorro De Energia
+9   MLA609115444         UPS     MLA1720                 Ups Apc De Alto Rendimiento 1200va Estabilizador Y Protector De Tension Garantía Oficial De 2 Años Ups
+10  MLA830836209          PC     MLA1649                                                            Servidor Poweredge Dell T40 Intel E3-2224 8gb 1tb Hd Cuotas
+11  MLA695450789   Notebooks     MLA1652                                                            Notebook Dell Latitude 3500 15.6 I5 8gb 1tb + 240ssd Win10p
+12  MLA846965428         UPS     MLA1720                                                           Ups Apc Bv500 Estabilizador Protector Tension Entreg Inmedit
+13  MLA673321805         UPS     MLA1720           Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años
+14  MLA800416106          PC     MLA1649                                                                 Servidor Dell Poweredge R440 Xeon 16gb 2tb Gtia 3 Años
+15  MLA836303021   Notebooks     MLA1652                                                                 Notebook Dell Latitude I5 16gb 256ssd 14 Win10 Pro Ram
+16  MLA837530968         UPS     MLA1720                                                                  Ups Apc Bk500ei 500va Back-ups 4 Tomas Estabilizador 
+17  MLA862050665          PC     MLA1649                                                           Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas
+18  MLA861220341     Routers   MLA430901                                                                    Router Linksys Wifi Ea7300 Mimo Smart Router Ac1750
+19  MLA812781294   Notebooks     MLA1652                                                             Notebook Dell Vostro I5 16gb 256ssd 14hd Win10 Profesional
+20  MLA609116302         UPS     MLA1720             Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer
+21  MLA614716924         UPS     MLA1720                                                           Ups Apc Br550g-ar Back-ups Pro 550va 230 Estabilizador Br550
+22  MLA800415543          PC     MLA1649                                                             Servidor Rack Dell Poweredge R240 Xeon 8gb 2tb Gtia Cuotas
+23  MLA850847234   Notebooks     MLA1652                                                                       Notebook Dell I5 8gb Ssd 256gb 13,3 Win10 Cuotas
+24  MLA670607406    Scanners    MLA72721                                                            Scanner Iris Iriscan Book 5 De Mano 30ppm Usb 2.0 Ion-litio
+25  MLA673280398          PC     MLA1649                                                             Servidor Rack Dell Poweredge R240 Xeon E-2124 8gb 2tb Gtia
+26  MLA795525764         UPS     MLA1720                                                                 Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650
+27  MLA855081464   Notebooks     MLA1652                                                                Notebook Dell Latitude 15.6 I5 8gb 1tb Win10 Pro Oferta
+28  MLA609714711         UPS     MLA1720           Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550
+29  MLA860403296          PC     MLA1649                                                                 Servidor Dell Poweredge R440 Xeon 16gb 2tb Gtia 3 Años
+30  MLA689148569    Switches     MLA1708                      Switch 8 Bocas Cisco 8 Puertos 10/100mbps Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+31  MLA640303035         UPS     MLA1720                                                           Ups Apc Br1500g 1500va Estabilizador  Gtia 2 Años Br1500g-ar
+32  MLA795525213         UPS     MLA1720                                                                 Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años
+33  MLA663219401   Notebooks     MLA1652                                                                              Notebook Dell I5 8gb Ssd 256gb 13,3 Win10
+34  MLA607248903         UPS     MLA1720                           Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Para El Hogar
+35  MLA714580671    Switches     MLA1708                                                           Switch Cisco Sg250-26p Small Business 24 P Poe+ Sg250-26p-k9
+36  MLA711874339         UPS     MLA1720  Ups Apc Bx1100ci 1100va 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial Para Pc Gamer Con Ahorro De Energia
+37  MLA677079403  Impresoras     MLA1676                         Impresora Laser Monocromática Lexmark B2338dw Wifi Blanco Y Negro Libreria Comercial Oficio A4
+38  MLA752633968   Notebooks     MLA1652                                                               Notebook Dell Vostro I5 8gb Ssd 256gb 13,3 Fhd Win10 Pro
+39  MLA723753317         UPS     MLA1720                                                              Ups Apc Br900g-ar 900va 6 Tomas Estabilizador Gtia 2 Años
+40  MLA608914689         UPS     MLA1720                                                             Ups Apc Br1200g Ar 1200va Estabilizador Br1200 Gtia 2 Años
+41  MLA714545399    Switches     MLA1708                                                           Switch Cisco Semi Admin 24 Puertos 10/100 2 Giga Sf220-24-k9
+42  MLA812493388   Notebooks     MLA1652                    Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+43  MLA824929193      Tóners     MLA3560                                                              Toner Lexmark Original 504 1.500p Ms 310/610/415 Standard
+44  MLA620000215     Routers   MLA430901       Router Wifi Linksys Dual Band 2 Antenas Usb 3.0 Conectar Equipos De Hogar Y Empresas Gtia Oficial  Factura A Y B
+45  MLA609712328         UPS     MLA1720                                                               Ups Apc Srv2ki 2000v 3t Easy Ups Srv 230v 1kva Rackeable
+46  MLA846185645    Scanners    MLA72721                                                                Iris Pen Air 7 Lapiz Escaner Portátil Usb Ocr Traductor
+47  MLA619242948     Routers   MLA430901                                                                      Router Wifi Linksys Dual Band 600mbps 802.11n Usb
+48  MLA669761931   Notebooks     MLA1652            Notebook Dell Latitude I5 8gb 256ssd 14 Win10 Profesional - Ideal Para Pymes Con Garantia Oficial De 3 Años
+49  MLA680636274     Routers   MLA430901                   Router Linksys Mimo smart wifi router ac1750 Gamer Rompemuros Dual Band Gtia Oficial - Factura A Y B
+              id        name category_id                                                                                                             title
+0   MLA863267784   Monitores    MLA14407                                                                     Monitor Dell P2018h Led 19.5  Negro 110v/220v
+1   MLA852423966     Routers   MLA430901                                                                                         Router Cisco Rv042g Negro
+2   MLA866032289     Routers   MLA430901                                                     Router, Access Point Linksys Max-stream Ea9500 Negro 100/240v
+3   MLA740540307          PC     MLA1649                                                      Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos
+4   MLA850688285   Notebooks     MLA1652                                                        Notebook Dell Inspiron I5 256ssd + 1tb 16gb W10 Gforce Ram
+5   MLA625205834         UPS     MLA1720  Ups Apc 800va 6 T Estabilizador Y Protector De Tension Gtia Oficial 2 Años Bx800 Para Tv, Play, Equipos De Audio
+6   MLA609550688         UPS     MLA1720                 Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años
+7   MLA827806651          PC     MLA1649                                                       Pc Dell Optiplex I5 8gb 1tb Win10p + Monitor P2018h 3 Gtias
+8   MLA723629779   Notebooks     MLA1652               Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+9   MLA614270244         UPS     MLA1720     Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años
+10  MLA619999038         UPS     MLA1720              Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia
+11  MLA614718493         UPS     MLA1720                                                      Ups Apc Bx1100ci Para Tv, Play, Audio, 6 Tomas Estabilizador
+12  MLA861373243          PC     MLA1649                                                       Servidor Rack Dell Poweredge R240 Xeon 32gb 4tb Gtia Cuotas
+13  MLA685442693    Switches     MLA1708                                                                  Switch Cisco 24 Puertos Gigabit Rack 10/100/1000
+14  MLA663219401   Notebooks     MLA1652                                                                         Notebook Dell I5 8gb Ssd 256gb 13,3 Win10
+15  MLA846968526         UPS     MLA1720                                                      Ups Apc Bv1000 Estabilza Y Protege Tensión Entrega Inmediata
+16  MLA862050665          PC     MLA1649                                                      Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas
+17  MLA839633052         UPS     MLA1720                                                            Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años
+18  MLA812493388   Notebooks     MLA1652               Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+19  MLA800416106          PC     MLA1649                                                            Servidor Dell Poweredge R440 Xeon 16gb 2tb Gtia 3 Años
+20  MLA846965428         UPS     MLA1720                                                      Ups Apc Bv500 Estabilizador Protector Tension Entreg Inmedit
+21  MLA863062405     Routers   MLA430901                                                       Router Wifi Linksys Dualband 600mbps Usb  Entrega Inmediata
+22  MLA620000215     Routers   MLA430901  Router Wifi Linksys Dual Band 2 Antenas Usb 3.0 Conectar Equipos De Hogar Y Empresas Gtia Oficial  Factura A Y B
+23  MLA830836209          PC     MLA1649                                                       Servidor Poweredge Dell T40 Intel E3-2224 8gb 1tb Hd Cuotas
+24  MLA664647170   Notebooks     MLA1652                                                                      Notebook Dell Latitude I5 8gb 1tb Win 10 Pro
+25  MLA609116302         UPS     MLA1720        Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer
+26  MLA673321805         UPS     MLA1720      Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años
+27  MLA866765282          PC     MLA1649                                                       Servidor Rack Dell Poweredge R240 Xeon 16gb 2tb Gtia Cuotas
+28  MLA689148569    Switches     MLA1708                 Switch 8 Bocas Cisco 8 Puertos 10/100mbps Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+29  MLA812781294   Notebooks     MLA1652                                                        Notebook Dell Vostro I5 16gb 256ssd 14hd Win10 Profesional
+30  MLA680636274     Routers   MLA430901              Router Linksys Mimo smart wifi router ac1750 Gamer Rompemuros Dual Band Gtia Oficial - Factura A Y B
+31  MLA846185645    Scanners    MLA72721                                                           Iris Pen Air 7 Lapiz Escaner Portátil Usb Ocr Traductor
+32  MLA683834424     Routers   MLA430901                                                           Router Cisco Rv160w Wireless Ac Vpn Dualband Usb Oferta
+33  MLA619242948     Routers   MLA430901                                                                 Router Wifi Linksys Dual Band 600mbps 802.11n Usb
+34  MLA850847234   Notebooks     MLA1652                                                                  Notebook Dell I5 8gb Ssd 256gb 13,3 Win10 Cuotas
+35  MLA800415543          PC     MLA1649                                                        Servidor Rack Dell Poweredge R240 Xeon 8gb 2tb Gtia Cuotas
+36  MLA795525213         UPS     MLA1720                                                            Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años
+37  MLA863064747     Routers   MLA430901                                                               Router Linksys Wifi Ea7300 Mimo Smart Router Ac1750
+38  MLA859905025  Impresoras     MLA1676                                                      Impresora Multifuncion Láser Lexmark Mb2546adwe Rempl. Mx517
+39  MLA614716924         UPS     MLA1720                                                      Ups Apc Br550g-ar Back-ups Pro 550va 230 Estabilizador Br550
+40  MLA860403296          PC     MLA1649                                                            Servidor Dell Poweredge R440 Xeon 16gb 2tb Gtia 3 Años
+41  MLA693166871   Notebooks     MLA1652                                                          Notebook Dell  Gamer G5 I7 16gb 256ssd + 1tb Gtx Win 10 
+42  MLA863060151     Routers   MLA430901                                                      Router Wifi Linksys Ea6100 Dualband Usb 3.0 Control Parental
+43  MLA607248903         UPS     MLA1720                      Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Para El Hogar
+44  MLA673280398          PC     MLA1649                                                        Servidor Rack Dell Poweredge R240 Xeon E-2124 8gb 2tb Gtia
+45  MLA685442543    Switches     MLA1708                                                      Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24)
+46  MLA752633968   Notebooks     MLA1652                                                          Notebook Dell Vostro I5 8gb Ssd 256gb 13,3 Fhd Win10 Pro
+47  MLA859898732    Switches     MLA1708                                                      Switch Cisco Semi Admin 24 Puertos 10/100 2 Giga Sf220-24-k9
+48  MLA724135827          PC     MLA1649                                                         Pc Dell Optiplex I5 8gb 1tb Win10p Ram 3 Años Gtía Oferta
+49  MLA665048554    Scanners    MLA72721                                                         Escaner Kodak Scanmate I940 Portatil De Mano Duplex 20ppm
